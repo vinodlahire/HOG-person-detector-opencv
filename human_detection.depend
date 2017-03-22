@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1490252840 source:e:\codeblockcpp\human_detection\main.cpp
+	<opencv2/opencv.hpp>
+	<opencv2/core.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/ml.hpp>
+	<iostream>
+	<vector>
+
